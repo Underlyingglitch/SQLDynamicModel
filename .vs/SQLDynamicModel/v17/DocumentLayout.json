@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Underlyingglitch\\source\\repos\\SQLDynamicModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C5C050-ED50-4D57-8D21-B96996278FFE}|SQLDynamicModel\\SQLDynamicModel.csproj|c:\\users\\underlyingglitch\\source\\repos\\sqldynamicmodel\\sqldynamicmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C5C050-ED50-4D57-8D21-B96996278FFE}|SQLDynamicModel\\SQLDynamicModel.csproj|solutionrelative:sqldynamicmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C5C050-ED50-4D57-8D21-B96996278FFE}|SQLDynamicModel\\SQLDynamicModel.csproj|c:\\users\\underlyingglitch\\source\\repos\\sqldynamicmodel\\sqldynamicmodel\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C5C050-ED50-4D57-8D21-B96996278FFE}|SQLDynamicModel\\SQLDynamicModel.csproj|solutionrelative:sqldynamicmodel\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C5C050-ED50-4D57-8D21-B96996278FFE}|SQLDynamicModel\\SQLDynamicModel.csproj|c:\\users\\underlyingglitch\\source\\repos\\sqldynamicmodel\\sqldynamicmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C5C050-ED50-4D57-8D21-B96996278FFE}|SQLDynamicModel\\SQLDynamicModel.csproj|solutionrelative:sqldynamicmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Underlyingglitch\\source\\repos\\SQLDynamicModel\\SQLDynamicModel\\Program.cs",
+              "RelativeDocumentMoniker": "SQLDynamicModel\\Program.cs",
+              "ToolTip": "C:\\Users\\Underlyingglitch\\source\\repos\\SQLDynamicModel\\SQLDynamicModel\\Program.cs",
+              "RelativeToolTip": "SQLDynamicModel\\Program.cs",
+              "ViewState": "AgIAAAAAAACel5mZmZkuwB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:54:00.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Underlyingglitch\\source\\repos\\SQLDynamicModel\\SQLDynamicModel\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "SQLDynamicModel\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\Underlyingglitch\\source\\repos\\SQLDynamicModel\\SQLDynamicModel\\Models\\Model.cs",
+              "RelativeToolTip": "SQLDynamicModel\\Models\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:53:32.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Underlyingglitch\\source\\repos\\SQLDynamicModel\\SQLDynamicModel\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SQLDynamicModel\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Underlyingglitch\\source\\repos\\SQLDynamicModel\\SQLDynamicModel\\Models\\Customer.cs",
+              "RelativeToolTip": "SQLDynamicModel\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:53:31.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

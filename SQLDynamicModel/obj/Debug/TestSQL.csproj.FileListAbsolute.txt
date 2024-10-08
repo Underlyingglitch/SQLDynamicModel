@@ -1,0 +1,7 @@
+C:\Users\Underlyingglitch\source\repos\TestSQL\TestSQL\bin\Debug\TestSQL.exe.config
+C:\Users\Underlyingglitch\source\repos\TestSQL\TestSQL\bin\Debug\TestSQL.exe
+C:\Users\Underlyingglitch\source\repos\TestSQL\TestSQL\bin\Debug\TestSQL.pdb
+C:\Users\Underlyingglitch\source\repos\TestSQL\TestSQL\obj\Debug\TestSQL.csproj.AssemblyReference.cache
+C:\Users\Underlyingglitch\source\repos\TestSQL\TestSQL\obj\Debug\TestSQL.csproj.CoreCompileInputs.cache
+C:\Users\Underlyingglitch\source\repos\TestSQL\TestSQL\obj\Debug\TestSQL.exe
+C:\Users\Underlyingglitch\source\repos\TestSQL\TestSQL\obj\Debug\TestSQL.pdb
